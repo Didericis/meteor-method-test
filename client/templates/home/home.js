@@ -1,10 +1,6 @@
 Template.home.onCreated(() => {
     const template = Template.instance();
     console.log('===Home created===');
-
-    App.method1.call({
-        message: 'Hi'
-    });
     
     template.autorun(() => {
         if (Meteor.user()) {
