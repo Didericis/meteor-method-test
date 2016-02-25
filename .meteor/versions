@@ -2,6 +2,7 @@ accounts-base@1.2.2
 accounts-password@1.1.4
 accounts-ui@1.1.6
 accounts-ui-unstyled@1.1.8
+alanning:roles@1.2.14
 aldeed:simple-schema@1.5.3
 autoupdate@1.2.4
 babel-compiler@5.8.24_1
@@ -24,6 +25,7 @@ ddp-common@1.2.2
 ddp-rate-limiter@1.0.0
 ddp-server@1.2.2
 deps@1.0.9
+didericis:permissions-mixin@0.1.0
 diff-sequence@1.0.1
 ecmascript@0.1.6
 ecmascript-runtime@0.2.6

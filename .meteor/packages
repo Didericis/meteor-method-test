@@ -22,3 +22,6 @@ mdg:validated-method
 accounts-password
 accounts-ui
 aldeed:simple-schema
+alanning:roles
+check
+didericis:permissions-mixin
